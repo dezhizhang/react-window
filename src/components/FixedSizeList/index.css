@@ -1,0 +1,17 @@
+.list{
+    border: 1px solid gray;
+}
+.odd
+.even {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.odd {
+    background-color: red;
+}
+
+.even{
+    background-color: aqua;
+}
